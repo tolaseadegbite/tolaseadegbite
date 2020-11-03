@@ -1,5 +1,4 @@
 ### Hi there 👋, Welcome to My Hall of Prowess 
-I'm Tolase Adegbite and this is My Profile 
 Here is an overview of my certificates; a proof of expertise garnered through learning and experience as a web developer. 
 This repository is achieved from different reputable and recognized learning hubs. 
 To start with, here are my Certificates of Completion from Learn Enough. Each badge stands for a completed and certified course.
