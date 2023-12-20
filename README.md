@@ -1,4 +1,4 @@
-Latest project: <a href="https://www.learnenough.com/certificates/tolasekelvin">An ecommerce app for food business</a>
+Latest project: <a href="https://github.com/tolaseadegbite/small_chops_shop">An ecommerce app for food business</a>
 
 ### Hi there 👋, Welcome to My Hall of Prowess 
 Here is an overview of my certificates; a proof of expertise garnered through learning and experience as a web developer. 
