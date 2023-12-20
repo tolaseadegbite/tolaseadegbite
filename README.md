@@ -1,3 +1,5 @@
+Latest project: <a href="[https://www.learnenough.com/certificates/tolasekelvin](https://github.com/tolaseadegbite/small_chops_shop)"></a>
+
 ### Hi there 👋, Welcome to My Hall of Prowess 
 Here is an overview of my certificates; a proof of expertise garnered through learning and experience as a web developer. 
 This repository is achieved from different reputable and recognized learning hubs. 
